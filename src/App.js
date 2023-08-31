@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          Welcome Anil to React. Heyyyy.
+          Welcome Anil to React.
         </a>
       </header>
     </div>
